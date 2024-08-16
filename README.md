@@ -8,4 +8,4 @@
 
 ![Screenshot of rDTMF](https://raw.githubusercontent.com/TheRealRatnadwip/rDTMF/main/Additional%20Assests/screenshot_v1.2.png)
 
-<img src= "https://raw.githubusercontent.com/TheRealRatnadwip/rDTMF/main/Additional%20Assests/dsktpico.png" width="100" height="100">
+<img src= "https://raw.githubusercontent.com/TheRealRatnadwip/rDTMF/main/Additional%20Assests/dsktpico.png" width="100" height="100">  The logo of the Software
