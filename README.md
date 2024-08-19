@@ -13,11 +13,11 @@
 
 ## Download & Install
 
-- _v1.2 Windows 10/11 64bit_ -- [Download ![version](https://img.shields.io/badge/version-1.2-purple)](https://raw.githubusercontent.com/TheRealRatnadwip/rDTMF/main/Downloads/rDTMF_v1.2_setup.exe) 
+- _![version](https://img.shields.io/badge/version-1.2-purple)  Windows 10/11 64bit_ -- Download from latest release
 
   After downloading the setup file in desiered location, run the setup file to start installing.
   
-only of windows ¯\\​_‎​(ツ)​_​/¯
+only for windows ¯\\​_‎​(ツ)​_​/¯
 
 ## Uninstall
 
